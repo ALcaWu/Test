@@ -8,3 +8,4 @@ else:
 # test 7-1
 message = input("你想要租赁什么样的汽车： ")
 print("让我帮你找找看有没有" + message)
+
